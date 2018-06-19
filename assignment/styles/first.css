@@ -5,7 +5,7 @@
 
 body {
     background: #333; /* must change */
-    color: #fff; /* may change */
+    color: #fff; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
