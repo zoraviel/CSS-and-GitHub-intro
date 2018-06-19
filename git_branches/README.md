@@ -4,9 +4,9 @@ Now you're going to do something rather sophisticated in your GitHub app.
 
 You're going to create a new **branch.** This will enable you to make changes and even create new files without affecting any of the original files in your repo.
 
-More important, by working only in a branch, later you will be able to make a **pull request** to the original repo. *This can only be done from a branch.* If the owner of the original repo allows it, your branch can then be **merged** into that original, incorporating your changes and new files into it. This is how thousands of people collaborate and contribute to [open-source](http://opensource.com/resources/what-open-source) projects.
+More important, by working only in a branch, later you will be able to make a **pull request** to the original repo. *This can only be done from a branch.* If the owner of the original repo allows it, your branch can then be **merged** into that original, incorporating your changes and new files into it. This is how thousands of people collaborate and contribute to [open-source](https://opensource.com/resources/what-open-source) projects.
 
-Before you create a branch, make sure you have done everything [here](../github_basics) and [here](../../../). Don't skip anything.
+Before you create a branch, make sure you have done everything [here](../github_basics) and [here](../../../README.md). Don't skip anything.
 
 ## See branches in the GitHub app
 
@@ -14,9 +14,9 @@ First find the Branch button near the top left of the app window. THE APP. Not t
 
 ![GitHub branch icon](../images/git-branch.png)
 
-To the right of the Branch button is a button bearing the name of the current branch. Right now, that is *master.* The first branch of a repo is always named *master* by default.
+To the right of the Branch icon is the name of the current branch. Right now, that is *master.* The first branch of a repo is always named *master* by default.
 
-When you click the button that says *master,* you'll see a list of all the branches in this repo. Even now, *master* has a checkmark to show you it is the current branch -- the one you are in now. You have only one branch so far.
+When you click the button that says *master,* you'll see a list of all the branches in this repo. Even now, *master* has a checkmark to show you it is the current branch — the one you are in now. You have only one branch so far.
 
 ## Create a new branch
 
@@ -26,11 +26,11 @@ Type the word *assignment* and a hyphen and your own last name. For example:
 
 *assignment-mcadams*
 
-Click the “Create Branch” button.
+Click the “Create New Branch” button. A small box pops up; click “Create Branch” there. Yes, it’s redundant.
 
 You should see your new second branch immediately.
 
-![GitHub branch icon](../images/branch-example.png)
+<img src="../images/branch-example.png" alt="Create a new branch" width="50%">
 
 Stay in this branch! DO NOT change it.
 
@@ -65,7 +65,7 @@ If you wanted to switch to another branch, you would simply use the menu/button.
 
 For this assignment, I want you to do EVERYTHING in your *assignment-yourname* branch. Do not make any edits or other changes while you are in *master.*
 
-If you're NOT in *assignment-yourname* now, **switch to it** and then **stay in it.**
+If you’re NOT in *assignment-yourname* now, **switch to it** and then **stay in it.**
 
 This will allow you to do a pull request successfully, later. (We’ll do it in class.)
 
