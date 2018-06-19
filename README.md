@@ -34,7 +34,7 @@ Only FORK a repo ONCE. After you have forked it, it exists on your own personal 
 
 Find the button that says “**Clone or download**” (right side, below the Fork button, below “1 contributor”). Click it.
 
-Choose “Open in Desktop,” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
+Click “Open in Desktop,” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
 
 <img src="images/clone.png" alt="How to clone" width="50%">
 
