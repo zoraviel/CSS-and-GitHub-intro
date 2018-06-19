@@ -30,7 +30,7 @@ Click the “Create New Branch” button. A small box pops up; click “Create B
 
 You should see your new second branch immediately.
 
-<img src="../images/branch-example.png" alt="Create a new branch" srcset="../images/branch-example.png 2x">
+<img src="../images/branch-example.png" alt="Create new branch" width="50%">
 
 Stay in this branch! DO NOT change it.
 
