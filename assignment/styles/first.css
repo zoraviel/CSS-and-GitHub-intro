@@ -1,11 +1,11 @@
-/*  add your styles below
+/*  add your styles below -- WHERE INDICATED
     Keep all the comments I have provided.
     Where I have commented "keep," DO NOT touch that line!
     */
 
 body {
-    background: #333; /* change */
-    color: #fff; /* change */
+    background: #333; /* must change */
+    color: #fff; /* may change */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 
@@ -16,6 +16,6 @@ article {
     border: 1px solid; /* can delete */
 }
 
-/* add your styles here */
+/* ADD YOUR STYLES BELOW */
 
-/* add your pseudo classes below this line */
+/* add your PSEUDO CLASSES below this line */

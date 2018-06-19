@@ -7,14 +7,12 @@ If you don't understand that, you probably skipped a step. Not good. Go back and
 Up to now, you have done the following:
 
 1. [Created a GitHub account and signed in.](../github_basics)
-2. [Forked and cloned a repo.](../../../)
-3. [Created a new branch named *assignment* and switched to that branch.](../git_branches)
+2. [Forked and cloned a repo.](../README.md)
+3. [Created a new branch and switched to that branch.](../git_branches)
 
 ## Save As: Two new files
 
-CHECK THE APP. MAKE SURE YOU ARE IN YOUR "assignment" BRANCH.
-
-![GitHub branch icon](../images/branch-example.png)
+CHECK THE APP. MAKE SURE YOUR “Current Branch” is your *assignment-yourname* branch.
 
 In Atom: In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
