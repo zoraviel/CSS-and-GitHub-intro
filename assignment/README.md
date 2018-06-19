@@ -14,7 +14,7 @@ Up to now, you have done the following:
 
 CHECK THE APP. MAKE SURE YOUR “Current Branch” is your *assignment-yourname* branch.
 
-<img src="../images/current_branch.png" alt="Current branch, in app">
+![Current branch, in app](../images/current_branch.png)
 
 In Atom: In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
@@ -95,7 +95,7 @@ After you specify the text color for `body`, reload the page and look at each pa
 
 **Poor contrast** means the text is too dark on a dark background, or too light on a light background. You can [test your text and background colors here](https://webaim.org/resources/contrastchecker/) if you’re not sure whether the contrast is acceptable.
 
-<img src="../images/contrast_check.png" alt="Example of poor contrast">
+<img src="../images/contrast_check.png" alt="Example of poor contrast" width="75%">
 
 ### Pseudo classes
 
