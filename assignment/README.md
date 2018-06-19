@@ -14,7 +14,7 @@ Up to now, you have done the following:
 
 CHECK THE APP. MAKE SURE YOUR “Current Branch” is your *assignment-yourname* branch.
 
-<img src="../images/current_branch.png" alt="Current branch, in app" width="50%">
+<img src="../images/current_branch.png" alt="Current branch, in app">
 
 In Atom: In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
@@ -46,7 +46,7 @@ You will make **ONLY these changes** in the HTML file:
 6. At the bottom of the page, change the words YOUR NAME HERE to your real first and last name, with normal capitalization (not all uppercase).
 
 All of those tags are covered in your textbook and also in [this
-videos on YouTube](https://www.youtube.com/watch?v=5ROw8pNE0qc). The video will be very helpful. If you misuse the tags, it will affect your grade.
+video on YouTube](https://www.youtube.com/watch?v=5ROw8pNE0qc). The video will be very helpful. If you misuse the tags, it will affect your grade.
 
 Do not make any other changes to the HTML — only those six.
 
@@ -95,7 +95,7 @@ After you specify the text color for `body`, reload the page and look at each pa
 
 **Poor contrast** means the text is too dark on a dark background, or too light on a light background. You can [test your text and background colors here](https://webaim.org/resources/contrastchecker/) if you’re not sure whether the contrast is acceptable.
 
-<img src="../images/contrast_check.png" alt="Example of poor contrast" width="50%">
+<img src="../images/contrast_check.png" alt="Example of poor contrast">
 
 ### Pseudo classes
 
@@ -133,6 +133,14 @@ Save and reload often to test, test, test. If anything looks messed up, it is pr
 Don't worry about the edges of elements. The text is too close to the edges, and it looks ugly. Just live with it. You will learn how to fix this, using borders, margin and padding, soon enough!
 
 Remember, **the focus of this assignment** is using CSS to apply color to specific elements. Mark up the HTML elements correctly and write the CSS for text and background colors correctly.
+
+## Adjusting colors for pseudo classes
+
+You must use five different colors for the five pseudo classes for this assignment. You may ADD colors that are not in your palette (colors 1 through 4), but keep these added colors in the same range.
+
+You might find it easiest to start with a suitable link color, and then use [Google’s color picker](https://www.google.com/search?q=color+picker) to collect four shades or hues of that color for the other pseudo classes.
+
+Make sure the **contrast** is good for EACH ONE of the five pseudo classes. You can [test your text and background colors here](https://webaim.org/resources/contrastchecker/) if you’re not sure whether the contrast is acceptable.
 
 ## Next steps
 
