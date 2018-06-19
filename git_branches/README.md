@@ -6,7 +6,7 @@ You're going to create a new **branch.** This will enable you to make changes an
 
 More important, by working only in a branch, later you will be able to make a **pull request** to the original repo. *This can only be done from a branch.* If the owner of the original repo allows it, your branch can then be **merged** into that original, incorporating your changes and new files into it. This is how thousands of people collaborate and contribute to [open-source](https://opensource.com/resources/what-open-source) projects.
 
-Before you create a branch, make sure you have done everything [here](../github_basics) and [here](../../../README.md). Don't skip anything.
+Before you create a branch, make sure you have done everything [here](../github_basics) and [here](../README.md). Don't skip anything.
 
 ## See branches in the GitHub app
 
