@@ -36,7 +36,7 @@ Find the button that says “**Clone or download**” (right side, below the For
 
 Choose “Open in Desktop,” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
 
-![How to clone](images/clone.png)
+<img src="images/clone.png" alt="How to clone" width="50%">
 
 You will be asked to choose a place on your hard drive for this repo. Put it inside the folder you already made inside Documents just for this purpose. (Perhaps you named it GitHub Projects?)
 
