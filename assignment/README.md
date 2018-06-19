@@ -103,18 +103,18 @@ The link pseudo-class selectors (`a` elements) are covered in chapter 13.
 
 Note that there are five (5) link pseudo classes, and there is a *required order* for putting them in your stylesheet.
 
-Select colors for all five link pseudo classes that provide **good contrast** with the background color of `figure` -- most of the links on this page are in a `figure` element. Save, reload, and adjust as needed to get good contrast.
+Select colors for all five link pseudo classes that provide **good contrast** with the background color you have given to `figure` -- most of the links on this page are in a `figure` element. Save, reload, and adjust as needed to get good contrast.
 
 **ALL colors in your stylesheet MUST use hexadecimal codes** (explained in chapter 13 and [this video](https://www.youtube.com/watch?v=iJcIlC4yFIQ)).
 
-Now look at your `footer`. Chances are the pseudo-class colors that worked for everything else are not providing a good color experience in your `footer`.
+Now look at your `footer`. Chances are the pseudo-class colors that worked everywhere else are not providing a good color experience in your `footer`.
 
 To fix that:
 
 1. Copy the block of all five of your pseudo-class rules.
 2. Paste that block below the five rules.
 3. For each pseudo-class selector in the second set of five, add the word *footer* at the start.
-4. Find and test new colors for the `footer` pseudo classes.
+4. Find and test five new colors for the `footer` pseudo classes.
 
 Original:
 
