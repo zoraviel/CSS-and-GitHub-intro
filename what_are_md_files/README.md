@@ -18,10 +18,10 @@ If you try to read a `.md` file from your hard drive in your web browser, it wil
 
 If you want to read Markdown files offline, you can do it with a Chrome extension called [Markdown Preview](https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd).
 
-Be sure to check “Allow access to file URLs” in the [chrome://extensions](chrome://extensions) listing for this extension. Then you can open local `.md` files and read them in a well-formatted display in Chrome.
+Be sure to check “Allow access to file URLs” in the chrome://extensions listing for this extension (go to chrome://extensions in your browser). Then you can open local `.md` files and read them in a well-formatted display in Chrome.
 
 You can write and edit `.md` files in any text editor.
 
-The Atom text editor has [a Markdown Preview option](../images/markdown.png) — it’s on the Packages menu.
+The Atom text editor has [a Markdown Preview option](../images/markdown.png) — it’s on the Packages menu, in Settings/Preferences.
 
 There’s a nice online viewer/editor for Markdown called [Dillinger](http://dillinger.io/).
