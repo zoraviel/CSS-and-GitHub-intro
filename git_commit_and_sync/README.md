@@ -37,7 +37,7 @@ Do this **after you commit.** You can make many commits, or one, before you push
 
 In the app, you'll find a “Push origin” button at the top. To push your changes up to GitHub.com, click the button.
 
-**Note:** If you have not published this branch yet, the button will say “Publish,” not “Push origin.” Click that.
+**Note:** If you have not published this branch yet, the button will say “Fetch origin,” not “Push origin.” Click that.
 
 By pushing, you make your remote repo (at GitHub) match your local repo (on your hard drive), providing a backup for your work. By keeping local and remote repos synchronized, you can protect your work and also share it with other people.
 
