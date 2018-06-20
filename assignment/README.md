@@ -103,7 +103,7 @@ The link pseudo-class selectors (`a` elements) are covered in chapter 13.
 
 Note that there are five (5) link pseudo classes, and there is a *required order* for putting them in your stylesheet.
 
-Select colors for all five link pseudo classes that provide **good contrast** with the background color you have given to `figure` -- most of the links on this page are in a `figure` element. Save, reload, and adjust as needed to get good contrast.
+Select colors for all five link pseudo classes that provide **good contrast** with the background color you have given to `figure` — most of the links on this page are in a `figure` element. Save, reload, and adjust as needed to get good contrast.
 
 **ALL colors in your stylesheet MUST use hexadecimal codes** (explained in chapter 13 and [this video](https://www.youtube.com/watch?v=iJcIlC4yFIQ)).
 
@@ -130,15 +130,23 @@ footer a:link { color: #c363b2; }
 
 Save and reload often to test, test, test. If anything looks messed up, it is probably because of a typing error. Check your file carefully.
 
-Don't worry about the edges of elements. The text is too close to the edges, and it looks ugly. Just live with it. You will learn how to fix this, using borders, margin and padding, soon enough!
+**You might not need** to change every one of the pseudo classes in the footer, and you might not need to change any of them. Check the contrast for each of the five colors, and use your best judgment.
+
+## Tips
+
+Don't worry about the edges of elements. The text and images are too close to the edges, and this looks ugly. Just live with it. You will learn how to fix this, using borders, margin and padding, soon enough!
 
 Remember, **the focus of this assignment** is using CSS to apply color to specific elements. Mark up the HTML elements correctly and write the CSS for text and background colors correctly.
 
 ## Adjusting colors for pseudo classes
 
-You must use five different colors for the five pseudo classes for this assignment. You may ADD colors that are not in your palette (colors 1 through 4), but keep these added colors in the same range.
+You must use five different colors for the five pseudo classes for this assignment. You may ADD colors that are not in your palette (colors 1 through 4), but keep any added colors in the same color range.
 
-You might find it easiest to start with a suitable link color, and then use [Google’s color picker](https://www.google.com/search?q=color+picker) to collect four shades or hues of that color for the other pseudo classes.
+In [my video about styling the pseudo classes](https://www.youtube.com/watch?v=otVUAinxGKk), I used this palette for the five pseudo classes on a white background. It gives you an example of how the five colors for pseudo classes might all be similar.
+
+![A five-color palette for link pseudo classes](../images/pseudo_class_palette.png)
+
+You might find it easiest to start with one suitable link color, and then use [Google’s color picker](https://www.google.com/search?q=color+picker) to collect four shades or hues of that color for the other pseudo classes.
 
 Make sure the **contrast** is good for EACH ONE of the five pseudo classes. You can [test your text and background colors here](https://webaim.org/resources/contrastchecker/) if you’re not sure whether the contrast is acceptable.
 
