@@ -27,7 +27,7 @@ A good commit message for this case would be: “Completed assignment files.”
 
 In the Changes window of the app, bottom left, type your commit message in the box that says “Summary.” You don't need a description. Click the button that says “Commit to assignment-yourname.” **Note:** *assignment-yourname* is the name of your branch. If this says “Commit to master,” you have not been working in the correct branch!
 
-<img src="../images/app-commit-field.png" alt="GitHub Desktop commit field" width="60%">
+<img src="../images/app-commit-field.png" alt="GitHub Desktop commit field" width=261>
 
 **If you change anything** in your files after this, you will need to commit again. Same procedure, but you should write a different message, such as “fixed color error” — describe what you changed.
 
