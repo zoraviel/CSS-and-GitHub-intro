@@ -18,11 +18,11 @@ Click “Fork” now.
 
 The original URL:
 
-<img src="images/url1.png" alt="Original URL for this repo" width="50%">
+<img src="images/url1.png" alt="Original URL for this repo" width=537>
 
 The new URL will contain your username:
 
-<img src="images/url2.png" alt="New URL for your forked copy" width="50%">
+<img src="images/url2.png" alt="New URL for your forked copy" width=582>
 
 **After forking:** The repo does not exist on your computer YET.
 
@@ -36,7 +36,7 @@ Find the button that says “**Clone or download**” (right side, below the For
 
 Click “Open in Desktop,” and your copy of the repo will appear in your app. If you are asked to “Launch Application,” do so, even if it’s already open.
 
-<img src="images/clone.png" alt="How to clone" width="60%">
+<img src="images/clone.png" alt="How to clone" width=373>
 
 You will be asked to choose a place on your hard drive for this repo. Put it inside the folder you already made just for this purpose. (Perhaps you named it GitHub_Projects?)
 
