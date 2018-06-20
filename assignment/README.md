@@ -95,7 +95,7 @@ After you specify the text color for `body`, reload the page and look at each pa
 
 **Poor contrast** means the text is too dark on a dark background, or too light on a light background. You can [test your text and background colors here](https://webaim.org/resources/contrastchecker/) if you’re not sure whether the contrast is acceptable.
 
-<img src="../images/contrast_check.png" alt="Example of poor contrast" width="60%">
+<img src="../images/contrast_check.png" alt="Example of poor contrast" width=680>
 
 ### Pseudo classes
 

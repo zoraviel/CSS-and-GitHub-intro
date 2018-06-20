@@ -36,7 +36,7 @@ A repo can be public or private. Your work for this course will all be public.
 
 Download [GitHub Desktop](https://desktop.github.com/). Also free. If you downloaded this app before now, check to make sure you have the *newest* version.
 
-<img src="../images/update-version.png" alt="Check for updates" width="50%">
+<img src="../images/update-version.png" alt="Check for updates" width=446>
 
 *On the GitHub Desktop menu (Mac) or the File menu (Windows), open “About GitHub Desktop” to check that you’ve got the latest version.*
 
