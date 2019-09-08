@@ -77,4 +77,4 @@ Remember to stay in your *assignment-yourname* branch! Do not switch branches ag
 
 <img src="../images/top-of-repo.png" alt="Click link to return to top of repo" width=470>
 
-Here’s how to go back to the top of this repo. Click the link for the repo’s name. 
+Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
