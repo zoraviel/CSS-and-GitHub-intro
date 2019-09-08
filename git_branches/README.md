@@ -74,3 +74,5 @@ This will allow you to do a pull request successfully, later. (We’ll do it in 
 To continue with your assignment, go back to the top of this repo, where all files and folders are listed. Go into the folder named *assignment* and follow the instructions there. This is where you’ll create new files.
 
 Remember to stay in your *assignment-yourname* branch! Do not switch branches again.
+
+<img src="../images/top-of-repo.png" alt="Click link to return to top of repo" width=470>
