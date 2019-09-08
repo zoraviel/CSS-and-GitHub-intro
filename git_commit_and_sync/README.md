@@ -52,3 +52,17 @@ If so, submit the complete URL of your GitHub repo in Canvas.
 If you need to change anything in your files: After changing and saving them in your text editor, re-follow the steps on this page to commit again and push.
 
 **If you do not push, I will NOT see your changes.**
+
+## Double-check on GitHub.com
+
+If you can't see your files on GitHub, you have not submitted your assignment.
+
+To check, open your own repo **at GitHub.com** in your web browser.
+
+Then **change to the branch you made.** This is shown below.
+
+<img src="../images/switch-branch-browser.png" alt="Switch to a branch at GitHub.com" width=367>
+
+Open the *assignment* folder and check to see that your two new files are there (the two files as described [here](../assignment/README.md)).
+
+If you can see them, others can also see them. Good!
