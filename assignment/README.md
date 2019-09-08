@@ -157,3 +157,7 @@ When you have tested everything and are satisfied with your HTML and CSS, save a
 Then go back to the top of this repo, where all files and folders are listed. Go into the folder named *git_commit_and_sync* and follow the instructions there.
 
 *(References to chapters 11 and 13 and “your textbook” mean [this book](http://learningwebdesign.com/).)*
+
+<img src="../images/top-of-repo.png" alt="Click link to return to top of repo" width=470>
+
+Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
