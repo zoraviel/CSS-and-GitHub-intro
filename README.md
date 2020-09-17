@@ -14,6 +14,8 @@ Find the button that says “Fork” (near the top of the page, right side). WAI
 
 Click “Fork” now.
 
+<img src="images/after_forking.png" alt="Username beside the repo name" width=302>
+
 **Fork:** Your repo (the copy) will not be changed when the original owner changes the original. Likewise, you can change your copy, and it will not affect the original. In most cases, you will only fork ONCE for one repo. (There is a way to update so that yours matches changes made to the original, but let’s leave that aside for now.)
 
 The original URL:
