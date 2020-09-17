@@ -26,15 +26,15 @@ Open those two files **in your text editor, Atom.**
 
 * *first.css* Do a Save As and name it with your last name (my file would be *mcadams.css*). Make sure you save that file inside the *styles* folder (which is inside the *assignment* folder).
 
-* CLOSE *starter_file.html* and *first.css* -- you will not change those.
+* CLOSE *starter_file.html* and *first.css* &mdash; you will not change those.
 
 Please be very careful to follow those instructions exactly.
 
 ## Your HTML file
 
-Imagine this file is part of a larger website called “Everything You Need to Know About Web Design.” That's the name of the *entire site.*
+Imagine this file is part of a larger website called “Everything You Need to Know About Web Design.” That would be the name of the *entire site.*
 
-The “Color Theory” article is just one of *many* articles on the site. That's the main heading of the *article* on this page.
+The “Color Theory” article is just one of *many* articles on the site. That's the main heading of the *article* on this page: “Color Theory.”
 
 You will make **ONLY these changes** in the HTML file:
 
@@ -52,7 +52,7 @@ Do not make any other changes to the HTML — only those six.
 
 ## Your color palette
 
-Create a color palette using the [Adobe Color](https://color.adobe.com/) site or another tool. [This video](https://www.youtube.com/watch?v=Um7TVYF0QIU) shows how to use Adobe Color. You might enjoy [this resource](https://color.adobe.com/explore/?filter=most-popular&time=month) — choose *Edit Copy* on any palette to get access to the hexadecimal codes.
+Create a color palette using the [Adobe Color](https://color.adobe.com/) site or another tool. [This video](https://www.youtube.com/watch?v=Um7TVYF0QIU) shows how to use Adobe Color.
 
 **ALL colors in your stylesheet MUST use hexadecimal codes** (explained in chapter 13 and [this video](https://www.youtube.com/watch?v=iJcIlC4yFIQ)).
 
@@ -70,7 +70,7 @@ Note that we have not yet covered fonts, margin, padding, and many other element
 
 We also have not covered use of classes and IDs, so you will apply styles only to *element type selectors* such as `body`, `figure` and `article`.
 
-The [lecture video](https://www.youtube.com/watch?v=W5W4FATwuVk) for chapter 11 demonstrates how to start using CSS.
+The [video](https://www.youtube.com/watch?v=W5W4FATwuVk) for chapter 11 demonstrates how to start using CSS.
 
 **ALL styles must be in your external stylesheet file. NO styles can appear in the HTML file.**
 
@@ -83,7 +83,9 @@ You must have four colors in your palette (you choose which is color 1, 2, etc.)
 * Color 3: The background color of both `aside` and `body`. Same color for both.
 * Color 4: The background color of `figure`.
 
-After you save and reload in the browser, you might decide your palette needs some changes — especially if the colors hurt your eyes! Feel free to change your four colors as you save and view the results in your browser. But do use *exactly four different colors* as listed above.
+After you save and reload in the browser, you might decide your palette needs some changes &mdash; especially if the colors hurt your eyes! Feel free to change your four colors as you save and view the results in your browser. But do use *exactly four different colors* as listed above.
+
+In other words, you can change your palette &mdash; but you must use ONLY and EXACTLY four (4) colors for the four purposes listed above.
 
 Note that the `body` and `article` selectors are already in the stylesheet. Edit or add to the existing declarations. **Do not add another `body` or `article` rule!** (Not sure what a *rule* is? Or a *declaration*? They are explained in chapter 11.)
 
@@ -154,6 +156,8 @@ Make sure the **contrast** is good for EACH ONE of the five pseudo classes. You 
 
 When you have tested everything and are satisfied with your HTML and CSS, save and close the two files in your text editor.
 
+**Don't forget to check the rubric!** It is in this repo!
+
 Then go back to the top of this repo, where all files and folders are listed. Go into the folder named *git_commit_and_sync* and follow the instructions there.
 
 *(References to chapters 11 and 13 and “your textbook” mean [this book](http://learningwebdesign.com/).)*
@@ -161,3 +165,5 @@ Then go back to the top of this repo, where all files and folders are listed. Go
 <img src="../images/top-of-repo.png" alt="Click link to return to top of repo" width=470>
 
 Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
+
+**Note:** It says *master* because it’s the website, GitHub.com. Your branch is only on your desktop right now.
