@@ -42,7 +42,7 @@ Find the button that says “**Code**” and click it.
 
 Then click the black text “Open with GitHub Desktop.” Your GitHub Desktop app should already be open.
 
-**IMPORTANT NOTE:** Where it says “https://github.com/macloo/datasette” in my screenshot below, &mdash; yours will say “https://github.com/yourname/CSS-and-GitHub-intro” instead. DO NOT CHANGE THIS.
+**IMPORTANT NOTE:** Where it says “https://github.com/macloo/datasette” in my screenshot below &mdash; yours will say “https://github.com/yourname/CSS-and-GitHub-intro” instead. DO NOT CHANGE THIS.
 
 <img src="images/clone1.png" alt="Click the Code button and click Open with GitHub Desktop" width=370>
 
@@ -64,13 +64,23 @@ In the popup seen below, click “For my own purposes” and then click the **Co
 
 If you get an error message, double-check that you have followed the steps above correctly.
 
-**Clone** uses your app (GitHub Desktop) to make a copy of the entire repo on your hard drive, and this copy is tethered to the version on the GitHub.com site (as you will see). You *might* clone a repo more than once, in some circumstances.
+**Clone** uses your app (GitHub Desktop) to make a copy of the entire repo **on your hard drive,** and this copy is tethered to the version on the GitHub.com site (as you will see). You *might* clone a repo more than once, in some circumstances. But usually ONCE is enough.
 
 ## What you should have now
 
-At GitHub.com, when you go to your user page/profile, you’ll see a link to your new repo (click it to view the repo). If you were on the **Repositories** tab, you'll need to **reload** the page to see the new repo.
+You have the exact same repo &mdash; all the files &mdash;  BOTH on your GitHub online AND locally on your own computer.
 
-On your hard drive, you’ll see a folder with the *same name* as that repo. *Do not change the name!* (These two are tethered together, thanks to Git.) Where is that folder? It is where you told it to be saved, when you cloned it.
+### At GitHub.com
+
+At GitHub.com, when you go to your user page/profile, you’ll see a link to your new repo (click it to view the repo). If you were already on the **Repositories** tab, you’ll need to **reload** the page to see the new repo.
+
+<img src="images/my_repos.png" alt="My Repositories page on Sept. 17, 2020" width=818>
+
+### On your own computer
+
+On your hard drive, you’ll see a folder with the *same name* as that GitHub repo. *Do not change the name!* (These two are tethered together, thanks to Git.) Where is that folder? It is where you told it to be saved, when you cloned it.
+
+If you move it to another folder, or rename the folder, your GitHub Desktop app will not be able to find it. 
 
 * You have a user page at GitHub. *My* user page is: https://github.com/macloo Yours will be similar, but with your username instead of *macloo*.
 * The name of the repo you forked and cloned is: CSS-and-GitHub-intro
