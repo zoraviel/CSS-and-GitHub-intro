@@ -6,7 +6,7 @@ If you don't understand that, you probably skipped a step. Not good. Go back and
 
 Up to now, you have done the following:
 
-1. [Created a GitHub account and signed in.](../github_basics)
+1. [Created a GitHub account and signed in. Downloaded and installed the GitHub Desktop app.](../github_basics)
 2. [Forked and cloned a repo.](../README.md)
 3. [Created a new branch and switched to that branch.](../git_branches)
 
@@ -14,11 +14,11 @@ Up to now, you have done the following:
 
 CHECK THE APP. MAKE SURE YOUR “Current Branch” is your *assignment-yourname* branch.
 
-![Current branch, in app](../images/current_branch.png)
+<img src="../images/current_branch.png" alt="Current branch, in the app" width=715>
 
 In Atom: In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
-![Atom project view](../images/atom-project-view.png)
+<img src="../images/atom-project-view.png" alt="Atom project view" width=820>
 
 Open those two files **in your text editor, Atom.**
 
