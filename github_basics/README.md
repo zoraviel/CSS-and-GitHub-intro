@@ -66,8 +66,8 @@ Your GitHub app is going to coordinate things for you between the web (GitHub) a
 
 To get you started, we will **fork** and then **clone** a repo. (Those GitHub words will all be defined as we go along.)
 
-**Go back to the top of this repo now,** and you’ll learn how. Instructions are there.
+**Go back to the top of this repo now,** and you’ll learn how.
 
-**To get back to the top of any repo,** find the link with the repo’s name in the top left area of the web page (the page you are reading right now). Click the link!
+**To get back to the top of any repo,** find the link with **the repo’s name** in the top left area of the web page (the page you are reading right now). Click the link!
 
-Go to the top of this page now, find that link, and go back to where you started. Subheading: “Forking a repo.”
+Go to the top of this page now, find that link, and go back to where you started. Find this subheading there: “Forking a repo.”
