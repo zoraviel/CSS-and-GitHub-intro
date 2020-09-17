@@ -10,11 +10,13 @@ You’re back? Good. With your GitHub account and your app all set up, you can n
 
 A repo can contain lots of files and folders, or few, or none (that would be an empty repo). Each GitHub user can have unlimited repos. As many as you want.
 
-Find the button that says “Fork” (near the top of the page, right side). WAIT BEFORE YOU CLICK IT. This makes a new, independent copy of this entire repo under YOUR GitHub username. Yes, THIS repo. You will have your own copy. As soon as you click “Fork,” you'll be on YOUR COPY. So scroll to find this text again after that happens.
+Find the button that says “Fork” (near the top of the page, right side). WAIT BEFORE YOU CLICK IT. This makes **a new, independent copy** of this entire repo under **YOUR GitHub** username. Yes, THIS repo. You will have your own copy. As soon as you click “Fork,” you'll be on YOUR COPY. So scroll to find this text again after that happens.
 
 Click “Fork” now.
 
 <img src="images/after_forking.png" alt="Username beside the repo name" width=302>
+
+After you have your fork (the copy), DO NOT OPEN MINE again.
 
 **Fork:** Your repo (the copy) will not be changed when the original owner changes the original. Likewise, you can change your copy, and it will not affect the original. In most cases, you will only fork ONCE for one repo. (There is a way to update so that yours matches changes made to the original, but let’s leave that aside for now.)
 
@@ -32,7 +34,7 @@ Only FORK a repo ONCE. After you have forked it, it exists on your own personal 
 
 ## Cloning a repo
 
-**NOTE:** Before you CLONE a repo, *make sure* you are on your own personal GitHub.com site.​ Do not clone it from my GitHub, where the URL includes “macloo.” Clone it from *your own* GitHub, where the URL includes YOUR NAME.
+**NOTE:** Before you CLONE a repo, *make sure* you are on YOUR own personal GitHub.com site.​ DO NOT clone it from my GitHub, where the URL includes “macloo.” Clone it from *your own* GitHub, where the URL includes YOUR NAME.
 
 Find the button that says “**Clone or download**” (right side, below the Fork button, below “1 contributor”). Click it.
 
