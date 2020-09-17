@@ -130,6 +130,8 @@ Footer version:
 footer a:link { color: #c363b2; }
 ```
 
+**ATTENTION!** You do not need to make special footer pseudo classes if the first set of pseudo classes looks fine in the footer. Some students might need to make special pseudo classes for another element, depending on their background color choices. It's all about the contrast!
+
 Save and reload often to test, test, test. If anything looks messed up, it is probably because of a typing error. Check your file carefully.
 
 **You might not need** to change every one of the pseudo classes in the footer, and you might not need to change any of them. Check the contrast for each of the five colors, and use your best judgment.
