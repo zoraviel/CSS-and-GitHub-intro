@@ -53,7 +53,7 @@ If so, submit the complete URL of your GitHub repo in Canvas.
 
 If you need to change anything in your files: After changing and saving them in your text editor, re-follow the steps on this page to commit again and push.
 
-**If you do not push, I will NOT see your changes.**
+**If you do not push, I will NOT see your changes.** I will grade the version that is not correct! Don’t let that happen!
 
 ## Double-check on GitHub.com
 
@@ -67,4 +67,4 @@ Then **change to the branch you made.** This is shown below.
 
 Open the *assignment* folder and check to see that your two new files are there (the two files as described [here](../assignment/README.md)).
 
-If you can see them, others can also see them. Good!
+**If you can see them, others can also see them.** Good!
