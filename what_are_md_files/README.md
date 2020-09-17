@@ -16,7 +16,7 @@ You do not need to write any Markdown files for your assignment. I just thought 
 
 If you try to read a `.md` file from your hard drive in your web browser, it will not work the way it does on GitHub. Basically, the file will be plain text.
 
-If you want to read Markdown files offline, you can do it with a Chrome extension called [Markdown Preview](https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd).
+If you want to read Markdown files offline, you can do it with a Chrome extension called [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk/).
 
 Be sure to check “Allow access to file URLs” in the chrome://extensions listing for this extension (go to chrome://extensions in your browser). Then you can open local `.md` files and read them in a well-formatted display in Chrome.
 
