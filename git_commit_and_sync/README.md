@@ -11,7 +11,7 @@ Up to now, you have done the following:
 
 Now would be a good time to [check the rubric](../rubric)!
 
-## Commit and commit messages
+## Commit, and commit messages
 
 Before you can synchronize your local files (local repo) with GitHub (remote repo), you must **commit** your changes. Git requires this.
 
@@ -19,7 +19,9 @@ A commit is often described as a snapshot. The snapshot records what has changed
 
 The commit message is your description or explanation of those changes. These messages can be very helpful in collaborative projects. They might be less meaningful for small, solo projects &mdash; but you have to write them anyway.
 
-You can view all commits in a project (shown below in the GitHub Desktop app) and even revert to a previous version. The **History** tab in the app reveals your past commits.
+You can view all commits in a project (shown below in the GitHub Desktop app) and even revert to a previous version.
+
+The **History** tab in the app reveals your *past* commits:
 
 ![History tab showing commits in GitHub Desktop](../images/commit_messages.png)
 
