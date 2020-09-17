@@ -10,13 +10,15 @@ Before you create a branch, make sure you have done everything [here](../github_
 
 ## See branches in the GitHub app
 
-First find the Branch button near the top left of the app window. THE APP. Not the website. THE APP. The Branch button has the **branch icon**:
+First find the Branch button near the top left of the app window. THE APP. Not the website. THE APP.
+
+The Branch button has the **branch icon**:
 
 ![GitHub branch icon](../images/git-branch.png)
 
-To the right of the Branch icon is the name of the current branch. Right now, that is *master.* The first branch of a repo is always named *master* by default.
+To the right of the Branch icon is the name of the current branch. Right now, that is *master.* The first branch of a repo is always named *master* by default. (The racist origin of this term is noted. [GitHub will change this in the future](https://www.bbc.com/news/technology-53050955).)
 
-When you click the button that says *master,* you'll see a list of all the branches in this repo. Even now, *master* has a checkmark to show you it is the current branch — the one you are in now. You have only one branch so far.
+When you click the button that says *master,* you'll see a list of all the branches in this repo. Even now, *master* has a checkmark to show you it is the current branch &mdash; the one you are in now. You have only one branch so far.
 
 ## Create a new branch
 
