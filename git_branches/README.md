@@ -18,7 +18,7 @@ The Branch button has the **branch icon**:
 
 To the right of the Branch icon is the name of the current branch. Right now, that is *master.* The first branch of a repo is always named *master* by default. (The racist origin of this term is noted. [GitHub will change this in the future.](https://www.bbc.com/news/technology-53050955))
 
-When you click the button that says *master,* you'll see a list of all the branches in this repo. Even now, *master* has a checkmark to show you it is the current branch &mdash; the one you are in now. You have only one branch so far.
+When you click the button that says *master,* you’ll see a list of all the branches in this repo. Even now, *master* has a checkmark to show you it is the current branch &mdash; the one you are in now. You have only one branch so far.
 
 ## Create a new branch
 
@@ -60,6 +60,8 @@ Not everyone who uses GitHub uses or understands branches. However, branches are
 This can be tricky, so pay attention. Remember the idea of “parallel universes”? Keep that in mind, because branches are NOT like folders. You can't simply move stuff back and forth between them. But *you* can change branches.
 
 If you wanted to switch to another branch, you would simply use the menu/button. It used to say *master,* but now it says *assignment-yourname.* The current branch has the checkmark.
+
+<img src="../images/branches_switching_branches.png" alt="Use this menu to switch branches" width=651>
 
 **DANGER!** If you make changes in one branch, and then you switch to another branch and make more changes, you will have a problem. Please be careful to stay inside the *assignment-yourname* branch AT ALL TIMES for the rest of this assignment.
 
