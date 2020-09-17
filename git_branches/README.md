@@ -63,6 +63,8 @@ If you wanted to switch to another branch, you would simply use the menu/button.
 
 <img src="../images/branches_switching_branches.png" alt="Use this menu to switch branches" width=651>
 
+*Above: To change to another branch, click its name in this list. For your assignment, stay in the new branch you made &mdash; not* master.
+
 **DANGER!** If you make changes in one branch, and then you switch to another branch and make more changes, you will have a problem. Please be careful to stay inside the *assignment-yourname* branch AT ALL TIMES for the rest of this assignment.
 
 ## Your assignment
@@ -71,7 +73,7 @@ For this assignment, I want you to do EVERYTHING in your *assignment-yourname* b
 
 If you’re NOT in *assignment-yourname* now, **switch to it** and then **stay in it.**
 
-This will allow you to do a pull request successfully, later. (We’ll do it in class.)
+This will allow you to do a pull request successfully, later. (We’ll do it **during class.** )
 
 ## Next steps
 
@@ -82,3 +84,5 @@ Remember to stay in your *assignment-yourname* branch! Do not switch branches ag
 <img src="../images/top-of-repo.png" alt="Click link to return to top of repo" width=470>
 
 Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
+
+**Note:** It says *master* because it’s the website, GitHub.com. Your branch is only on your desktop right now.
