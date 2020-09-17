@@ -1,6 +1,8 @@
 # RUBRIC for Assignment 3
 
-15 points maximum
+After reading this rubric and checking your work, [return to Git Commit and Sync](../git_commit_and_sync).
+
+Assignment 3: 15 points maximum
 
 ## 5 points:
 
@@ -12,11 +14,13 @@
 
 * Inside the new branch are two (2) new files with the correct filenames, as described here: [assignment](../assignment)
 
-* Your HTML validates [here](https://html5.validator.nu/).
+* Your HTML validates [here](https://validator.w3.org/).
 
 * All CSS is in your .css file. There is no CSS in the HTML file.
 
 (All criteria must be met to get 5 points.)
+
+**ATTENTION!** If your assignment lacks any of the above, you cannot get more than 5 points for this assignment.
 
 ## 10 points:
 
@@ -25,6 +29,8 @@ All of the above. Plus, ALL CRITERIA HERE are met: [assignment](../assignment)
 **Note:** I expect to see all five *pseudo classes* for links specified separately AND in the correct order. Find these things (the five, and the order) in your book. They are also covered in the videos.
 
 (All criteria must be met to get 10 points.)
+
+**ATTENTION!** If your assignment lacks any of the above, you cannot get more than 10 points for this assignment. 
 
 ## 15 points:
 
