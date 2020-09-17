@@ -9,13 +9,15 @@ Up to now, you have done the following:
 3. [Created a new branch named *assignment-yourname* and switched to that branch.](../git_branches)
 4. [Completed the assignment about CSS styles.](../assignment)
 
+Now would be a good time to [check the rubric](../rubric)!
+
 ## Commit and commit messages
 
 Before you can synchronize your local files (local repo) with GitHub (remote repo), you must **commit** your changes. Git requires this.
 
 A commit is often described as a snapshot. The snapshot records what has changed in this project since your last commit. The list of all commits is a record of all the changes made to the project since it began.
 
-The commit message is your description or explanation of those changes. These messages can be very helpful in collaborative projects. They might be less meaningful for small, solo projects — but you have to write them anyway.
+The commit message is your description or explanation of those changes. These messages can be very helpful in collaborative projects. They might be less meaningful for small, solo projects &mdash; but you have to write them anyway.
 
 You can view all commits in a project (shown below in the GitHub Desktop app) and even revert to a previous version. The **History** tab in the app reveals your past commits.
 
@@ -25,11 +27,11 @@ You can view all commits in a project (shown below in the GitHub Desktop app) an
 
 A good commit message for this case would be: “Completed assignment files.”
 
-In the **Changes** area of the app, bottom left, type your commit message in the box that says “Summary.” You don’t need a description. Click the button that says “Commit to assignment-yourname.” **Note:** *assignment-yourname* is the name of your branch. If this says “Commit to master,” you have not been working in the correct branch!
+In the **Changes** area of the app (left side), type your commit message in the box that says “Summary” (bottom left). You don’t need a description. Click the button that says “Commit to assignment-yourname.” **Note:** *assignment-yourname* is the name of your branch. If this says “Commit to master,” you have not been working in the correct branch!
 
 <img src="../images/app-commit-field.png" alt="GitHub Desktop commit field" width=261>
 
-**If you change anything** in your files after this, you will need to commit again. Same procedure, but you should write a different message, such as “fixed color error” — describe what you changed.
+**If you change anything** in your files after this, you will need to **commit again.** Same procedure, but you should write a different message, such as “fixed color error” — describe what you changed.
 
 ## How to sync, or push
 
