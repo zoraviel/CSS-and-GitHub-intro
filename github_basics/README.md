@@ -42,17 +42,21 @@ Download [GitHub Desktop](https://desktop.github.com/). Also free. If you downlo
 
 I will refer to GitHub Desktop as “the app.”
 
-Install the app. To see how, go to the Help section for the app: [Getting Started with GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/).
+Install the app. To see how, go to [Installing and configuring GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop).
 
-**IMPORTANT:** Using the same Help instructions as needed, LINK your GitHub account to the app. This is called “Authenticating to GitHub.” **Note:** You do not have 2FA or Enterprise.
+**IMPORTANT:** Using the same instructions as needed, LINK your GitHub account to the app. This is called “Authenticating to GitHub.” **Note:** You do NOT have 2FA or Enterprise.
 
 You DID sign up for GitHub already — yes? This only works if you have a GitHub account.
+
+**Windows users:** When they show something on the "GitHub Desktop" menu, for you it will be on the File menu for the app.
 
 ## Get organized
 
 Time for some thinking: GitHub expects things to be stable on your hard drive(s). That means you need to decide very deliberately WHERE on your hard drive a folder associated with GitHub will be. DO NOT associate GitHub with folders on your Desktop! Folders for your web projects should always be inside your Documents folder on your hard drive.
 
 Go *inside* your Documents folder and make a **new folder** there. This ONE folder will contain all other folders that you will associate with GitHub. You might name that folder Webwork, or Datawork, or Code, or some other general term. Name it something that makes sense to you. (I think it would be confusing to name it GitHub. Maybe naming it GitHub_Projects would be okay.)
+
+**NO SPACES in FOLDER NAMES for online projects.**
 
 Alternatively, you could make this folder *inside* the folder you already have for this class. There’s no problem with that.
 
